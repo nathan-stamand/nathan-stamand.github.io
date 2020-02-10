@@ -1,11 +1,11 @@
 # Site settings
-author: Nathan St.Amand
-title: 
+author: Nathan
+title: My Blog
 header-img: img/home-bg.png
 email: nathansaint810@gmail.com
-copyright_name: Nathan St.Amand
+copyright_name: Nathan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Blog Day's Night
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nathan-stamand
