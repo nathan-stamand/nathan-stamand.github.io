@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      "More on React and Redux: Moron, React, and Redux"
-date:       2020-08-15 15:22:22 +0000
+title:      "More on React and Redux"
+date:       2020-08-15 11:22:23 -0400
 permalink:  more_on_react_and_redux_moron_react_and_redux
 ---
 
 
-Being that this is my *last blog post ever* I thought I'd use the opportunity to walk through the section I had the most trouble learning. *See title, come back when you're ready*
+Being that this is my *last blog post ever* I thought I'd use the opportunity to walk through the section I had the most trouble learning.
 
 For whatever reason, I didn't wrap my head around React or Redux until I was in my final project. So now, just to prove to myself that I understand it, I'm going to walk through how both of them work together in my **incredibly funny, thought-provoking blog**. Starting, of course, with React. 
 
