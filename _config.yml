@@ -1,11 +1,11 @@
 # Site settings
-author: Nathan
-title: My Blog
+author: Nathan St.Amand
+title: Factor-Refactor
 header-img: img/home-bg.png
 email: nathansaint810@gmail.com
-copyright_name: Nathan
+copyright_name: Nathan St.Amand
 description: > # this means to ignore newlines until "baseurl:"
-  A Blog Day's Night
+  A Development on the Web Concerning Web Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nathan-stamand
